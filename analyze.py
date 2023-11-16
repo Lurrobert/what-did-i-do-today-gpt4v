@@ -25,7 +25,7 @@ def summarize_day(descriptions):
             },
             {
                 "role": "user",
-                "content": "Summarize today's events. Format it nicely in bullet poitns in HTML. Your WHOLE answer must be in HTML."
+                "content": "Summarize today's events. Format it nicely in bullet points in HTML. Your WHOLE answer must be in HTML."
             },
             {
                 "role": "assistant",
